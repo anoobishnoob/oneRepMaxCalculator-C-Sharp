@@ -1,0 +1,9 @@
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\bin\oneRepMaxCalculator.dll.config
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\bin\oneRepMaxCalculator.dll
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\bin\oneRepMaxCalculator.pdb
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\obj\Debug\oneRepMaxCalculator.csprojResolveAssemblyReference.cache
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\obj\Debug\oneRepMaxCalculator.csproj.CoreCompileInputs.cache
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\obj\Debug\oneRepMaxCalculator.dll
+c:\users\saqan\source\repos\oneRepMaxCalculator\oneRepMaxCalculator\obj\Debug\oneRepMaxCalculator.pdb

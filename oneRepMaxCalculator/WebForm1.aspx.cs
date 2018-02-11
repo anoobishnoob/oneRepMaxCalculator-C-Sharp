@@ -16,7 +16,6 @@ namespace oneRepMaxCalculator
 
         protected void calcButton_Click(object sender, EventArgs e)
         {
-            //double value = double.Parse(moutTextBox.Text);
             int repValue = int.Parse(repsTextBox.Text);
             int weightValue = int.Parse(weightTextBox.Text);
 
